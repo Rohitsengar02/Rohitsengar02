@@ -1,105 +1,58 @@
-<!-- ===================== HEADER ===================== -->
+<!-- Custom hero card (lives in this repo at assets/hero.svg) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Rohit%20Sengar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%40%20Cyberlim%20%E2%80%A2%20Full-Stack%20%26%20AI%20Developer&descAlignY=58&descSize=18" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://rohitsengar.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+SaaS+products+at+Cyberlim+%F0%9F%9A%80;Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Flutter;AI+Agents+%26+WhatsApp+Automation+%F0%9F%A4%96;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+  <a href="https://github.com/Rohitsengar02?tab=followers">
+    <img src="./assets/hero.svg" width="100%" alt="Rohit Sengar" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://rohitsengar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://cyberlim.com"><img src="https://img.shields.io/badge/Cyberlim-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:contact@cyberlim.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Rohitsengar02&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
+  <a href="https://rohitsengar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-232129?style=for-the-badge&logo=vercel&logoColor=c084fc" /></a>
+  <a href="https://cyberlim.com"><img src="https://img.shields.io/badge/Cyberlim-232129?style=for-the-badge&logo=googlechrome&logoColor=c084fc" /></a>
+  <a href="mailto:contact@cyberlim.com"><img src="https://img.shields.io/badge/Email-232129?style=for-the-badge&logo=gmail&logoColor=c084fc" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-232129?style=for-the-badge&logo=linkedin&logoColor=c084fc" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Rohitsengar02&style=for-the-badge&color=7e3fd1&label=VIEWS" />
 </p>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- ===== Stats row (live) ===== -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohitsengar02&show_icons=true&include_all_commits=true&count_private=true&bg_color=232129&title_color=c084fc&icon_color=a970ff&text_color=e4e4e7&border_color=34303b&border_radius=16" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsengar02&layout=compact&langs_count=8&bg_color=232129&title_color=c084fc&text_color=e4e4e7&border_color=34303b&border_radius=16" />
+</p>
 
-```js
-const rohit = {
-  role:       "Founder & Technical Lead @ Cyberlim IT Solutions",
-  location:   "Ghaziabad, India 🇮🇳",
-  building:   ["Wappar — WhatsApp automation SaaS", "CyberPOS — multi-tenant POS"],
-  exploring:  ["AI voice agents", "3D web with Three.js & GSAP"],
-  delivers:   ["Web apps", "Mobile apps", "ERP / CRM / POS", "AI integrations"],
-  funFact:    "Studying biotech while running a software company 🧬",
-};
-```
-
----
-
-## 🛠️ Tech Stack
+### 📌 Pinned Repository
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,nodejs,express&perline=10" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,flutter,dart,cpp,python,docker,linux&perline=10" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,aws,figma,postman,vscode&perline=10" />
+  <a href="https://github.com/Rohitsengar02/Wappar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitsengar02&repo=Wappar&bg_color=232129&title_color=ffffff&icon_color=a970ff&text_color=a1a1aa&border_color=34303b&border_radius=16" /></a>
+  <a href="https://github.com/Rohitsengar02/RohitPortfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitsengar02&repo=RohitPortfolio&bg_color=232129&title_color=ffffff&icon_color=a970ff&text_color=a1a1aa&border_color=34303b&border_radius=16" /></a>
+  <a href="https://github.com/Rohitsengar02/Journey-Diary"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitsengar02&repo=Journey-Diary&bg_color=232129&title_color=ffffff&icon_color=a970ff&text_color=a1a1aa&border_color=34303b&border_radius=16" /></a>
+  <a href="https://github.com/Rohitsengar02/Bitechez"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitsengar02&repo=Bitechez&bg_color=232129&title_color=ffffff&icon_color=a970ff&text_color=a1a1aa&border_color=34303b&border_radius=16" /></a>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Rohitsengar02/Wappar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitsengar02&repo=Wappar&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/Rohitsengar02/RohitPortfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitsengar02&repo=RohitPortfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/Rohitsengar02/Journey-Diary">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitsengar02&repo=Journey-Diary&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/Rohitsengar02/Bitechez">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitsengar02&repo=Bitechez&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohitsengar02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsengar02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rohitsengar02&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohitsengar02&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohitsengar02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Snake
+### 🟪 Contributions this year
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohitsengar02/Rohitsengar02/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohitsengar02/Rohitsengar02/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Rohitsengar02/Rohitsengar02/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohitsengar02/Rohitsengar02/output/contrib-purple.svg" />
+    <img alt="contribution grid" src="https://raw.githubusercontent.com/Rohitsengar02/Rohitsengar02/output/contrib-purple.svg" width="100%" />
   </picture>
 </p>
 
----
-
 <p align="center">
-  <b>💼 Open to freelance & SaaS collaborations — let's build something great.</b>
+  <img src="https://streak-stats.demolab.com?user=Rohitsengar02&background=232129&border=34303b&stroke=34303b&ring=a970ff&fire=f0507a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c084fc&sideLabels=e4e4e7&dates=a1a1aa&border_radius=16" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohitsengar02&bg_color=232129&color=c084fc&line=a970ff&point=ffffff&area=true&area_color=a970ff&hide_border=true&radius=16&title_color=c084fc" />
+</p>
+
+### 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,nodejs,express,mongodb,postgres,firebase,flutter,cpp,python,docker,git,vercel,figma&perline=10&theme=dark" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rohitsengar02?tab=repositories"><b>View Activity →</b></a>
 </p>
